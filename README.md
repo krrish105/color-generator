@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/krrish105/color-generator](https://github.com/krrish105/color-generator)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -43,7 +43,7 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Values.js](https://github.com/noeldelgado/values.js)
-- styled-components
+- [styled-components](https://styled-components.com/)
 
 ## Author
 
