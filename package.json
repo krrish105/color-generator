@@ -1,7 +1,13 @@
 {
   "name": "color-generator",
+  "author": {
+    "name": "Karishma Garg",
+    "email": "jainkarishma76@gmail.com",
+    "url": "http://Krrish105.github.io/karishmagarg/"
+  },
   "version": "0.1.0",
   "private": true,
+  "description": "Color Generator App that allows the user to search for a color and find its tints and shades.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -9,6 +15,8 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.5",
+    "values.js": "^2.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
