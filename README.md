@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/krrish105/color-generator](https://github.com/krrish105/color-generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://krrish105.github.io/color-generator/](https://krrish105.github.io/color-generator/)
 
 ## My process
 
