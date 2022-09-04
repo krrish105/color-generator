@@ -2,6 +2,8 @@
 
 Color Generator Website allows the user to search for a specific color using hex code/rgb/rgba/hsl/hsla values or color name and get all the tint, shade and base value of the color by the weight of 10.
 
+This project was built for the final project of CS50x, Introduction To Computer Science.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -21,7 +23,7 @@ Users should be able to:
 - Search for the color shades, tints and base color using the hex code/rgb/rgba/hsl/hsla values or color name
 - See all the tint, shade and base value of the color by the weight of 10
 - Select a color from the color picker and see all the tints and shades of the color, and the base color using it.
-- Copy a color code using the Eye Dropper in the color picker and all the tints and shades of the color, and the base color using it. This project was built for the final project of CS50x, Introduction To Computer Science.
+- Copy a color code using the Eye Dropper in the color picker and all the tints and shades of the color, and the base color using it.
 
 ### Screenshot
 
